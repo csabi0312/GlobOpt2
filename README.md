@@ -1,4 +1,4 @@
-# Global Optimization Project 2
+# Global Optimisation Project 2
 
 Members:
 - Ádám Bernát
