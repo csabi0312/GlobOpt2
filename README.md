@@ -1,7 +1,7 @@
 # Global Optimisation Project 2
 
 Members:
-- Ádám Bernát 
+- Ádám Bernát (NEOM6E) 
 - Csaba Kiss (B73BSA)
 - Donát Köller (D813GB)
 
